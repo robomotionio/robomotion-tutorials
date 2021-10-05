@@ -1,0 +1,14 @@
+- header: Intermediate
+  lessons:
+  - header: Nodes
+    slug: nodes
+    video: https://www.youtube.com/watch?v=mmO1IdVnE8g
+  - header: Repositories
+    slug: repositories
+    video: https://www.youtube.com/watch?v=mmO1IdVnE8g
+  - header: Browser Automation
+    slug: browser-automation
+    video: https://www.youtube.com/watch?v=mmO1IdVnE8g
+  - header: Excel Automation
+    slug: excel-automation
+    video: https://www.youtube.com/watch?v=mmO1IdVnE8g

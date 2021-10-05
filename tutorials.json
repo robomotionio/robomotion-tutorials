@@ -1,0 +1,102 @@
+[
+  {
+    "header": "Quick Start",
+    "lessons": [
+      {
+        "header": "Introduction",
+        "slug": "introduction",
+        "video": "https://www.youtube.com/watch?v=mmO1IdVnE8g"
+      },
+      {
+        "header": "Install Robot and Web Extension",
+        "slug": "installation",
+        "video": "https://www.youtube.com/watch?v=mmO1IdVnE8g"
+      },
+      {
+        "header": "Run Your First Flow",
+        "slug": "first-run",
+        "video": "https://www.youtube.com/watch?v=mmO1IdVnE8g"
+      }
+    ]
+  },
+  {
+    "header": "Basic",
+    "lessons": [
+      {
+        "header": "Inject & Debug",
+        "slug": "inject-debug",
+        "video": "https://www.youtube.com/watch?v=mmO1IdVnE8g"
+      },
+      {
+        "header": "Message Object",
+        "slug": "message-object",
+        "video": "https://www.youtube.com/watch?v=mmO1IdVnE8g"
+      },
+      {
+        "header": "Functions",
+        "slug": "functions",
+        "video": "https://www.youtube.com/watch?v=mmO1IdVnE8g"
+      },
+      {
+        "header": "Variables",
+        "slug": "variables",
+        "video": "https://www.youtube.com/watch?v=mmO1IdVnE8g"
+      },
+      {
+        "header": "For Each",
+        "slug": "foreach",
+        "video": "https://www.youtube.com/watch?v=mmO1IdVnE8g"
+      },
+      {
+        "header": "Switch",
+        "slug": "switch",
+        "video": "https://www.youtube.com/watch?v=mmO1IdVnE8g"
+      },
+      {
+        "header": "Exception Handling",
+        "slug": "exception-handling",
+        "video": "https://www.youtube.com/watch?v=mmO1IdVnE8g"
+      }
+    ]
+  },
+  {
+    "header": "Intermediate",
+    "lessons": [
+      {
+        "header": "Nodes",
+        "slug": "nodes",
+        "video": "https://www.youtube.com/watch?v=mmO1IdVnE8g"
+      },
+      {
+        "header": "Repositories",
+        "slug": "repositories",
+        "video": "https://www.youtube.com/watch?v=mmO1IdVnE8g"
+      },
+      {
+        "header": "Browser Automation",
+        "slug": "browser-automation",
+        "video": "https://www.youtube.com/watch?v=mmO1IdVnE8g"
+      },
+      {
+        "header": "Excel Automation",
+        "slug": "excel-automation",
+        "video": "https://www.youtube.com/watch?v=mmO1IdVnE8g"
+      }
+    ]
+  },
+  {
+    "header": "Advanced",
+    "lessons": [
+      {
+        "header": "Custom Nodes",
+        "slug": "custom-nodes",
+        "video": "https://www.youtube.com/watch?v=mmO1IdVnE8g"
+      },
+      {
+        "header": "Custom Repositories",
+        "slug": "custom-repositories",
+        "video": "https://www.youtube.com/watch?v=mmO1IdVnE8g"
+      }
+    ]
+  }
+]

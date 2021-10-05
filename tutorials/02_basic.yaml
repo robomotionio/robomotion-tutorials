@@ -1,0 +1,23 @@
+- header: Basic
+  lessons:
+  - header: Inject & Debug
+    slug: inject-debug
+    video: https://www.youtube.com/watch?v=mmO1IdVnE8g
+  - header: Message Object
+    slug: message-object
+    video: https://www.youtube.com/watch?v=mmO1IdVnE8g
+  - header: Functions
+    slug: functions
+    video: https://www.youtube.com/watch?v=mmO1IdVnE8g
+  - header: Variables
+    slug: variables
+    video: https://www.youtube.com/watch?v=mmO1IdVnE8g
+  - header: For Each
+    slug: foreach
+    video: https://www.youtube.com/watch?v=mmO1IdVnE8g
+  - header: Switch
+    slug: switch
+    video: https://www.youtube.com/watch?v=mmO1IdVnE8g
+  - header: Exception Handling
+    slug: exception-handling
+    video: https://www.youtube.com/watch?v=mmO1IdVnE8g
