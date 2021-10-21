@@ -81,6 +81,16 @@
         "header": "Excel Automation",
         "slug": "excel-automation",
         "video": "https://www.youtube.com/watch?v=mmO1IdVnE8g"
+      },
+      {
+        "header": "Queues",
+        "slug": "queues",
+        "video": "https://www.youtube.com/watch?v=mmO1IdVnE8g"
+      },
+      {
+        "header": "Triggers",
+        "slug": "triggers",
+        "video": "https://www.youtube.com/watch?v=mmO1IdVnE8g"
       }
     ]
   },
