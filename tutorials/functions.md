@@ -7,3 +7,8 @@ If you need to, you can use **Javascript** within the Function node.
 ![Function Node](https://raw.githubusercontent.com/robomotionio/robomotion-tutorials/master/images/function-node.png)
 
 You can manipulate the message object or read / write variables within these functions.
+
+After changing the msg object you must return it within the function as follows;
+
+`return msg`
+
