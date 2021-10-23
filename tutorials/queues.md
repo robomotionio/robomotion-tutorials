@@ -5,10 +5,9 @@ These kind of scenarious are great for Queues. A Queue created on Admin Console 
 as the producer. For the invoice example this robot may parse the PDF and enter the data to be processed into the queue. 
 
 Then multiple robots may be the consumer for these tasks. A robot gets the next item from the Queue and after completing the task, marks
-the task as success.
+the task as completed.
 
-The data pushed through the Queue is encrypted json objects and only you can decrypt it with your keys, even Robomotion servers can not decrypt the data. It can only be decrypted by the robot on your site.
-
+The data pushed through the Queue is encrypted json objects and only be decrypted with your keys, even Robomotion servers can not decrypt the data. It can only be decrypted by the robot on your site.
 
 #### Create a Queue
 Queues can be created from Admin Console -> Queues screen.
