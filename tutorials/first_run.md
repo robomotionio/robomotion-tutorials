@@ -10,3 +10,5 @@
 
 * See the results in Flow Designer
 
+Now you can try out more advanced flows from our templates [here](https://explore.robomotion.io).
+
