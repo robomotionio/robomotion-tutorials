@@ -9,7 +9,6 @@ your flows at the time of the versioning with a name and description.
 Every flow has default version named "master". This is the main version of all the flows. You can continue developing your flows,
 and every save overwrites the master version.
 
-To create versions just click the button right next to project name.
+To create versions just click the button right next to your project name.
 
 ![Versioning](https://raw.githubusercontent.com/robomotionio/robomotion-tutorials/master/images/versioning.png)
-
