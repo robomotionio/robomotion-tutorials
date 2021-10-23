@@ -1,7 +1,7 @@
 - header: Advanced
   lessons:
-  - header: Custom Nodes
-    slug: custom-nodes
+  - header: Custom Packages
+    slug: custom-packages
     video: https://www.youtube.com/watch?v=mmO1IdVnE8g
   - header: Custom Repositories
     slug: custom-repositories
