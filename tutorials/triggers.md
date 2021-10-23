@@ -6,9 +6,9 @@ Some automations need polling. This may be looking for a new file in a folder, c
 Triggers are for these scenarios. A triggers is simply something to watch behind the scenes. A robot watches the triggers that are set for itself, all the time but in an idle state. So a robot is free to run flows while watching triggers. If a trigger happens than robot schedules the related flow to handle.
 
 #### Create a Trigger
-Queues can be created from Admin Console -> Trigger screen.
+Triggers can be created from Admin Console -> Trigger screen.
 
-![Queues](https://raw.githubusercontent.com/robomotionio/robomotion-tutorials/master/images/triggers.png)
+![Triggers](https://raw.githubusercontent.com/robomotionio/robomotion-tutorials/master/images/triggers.png)
 
 #### Kinds of Triggers
 
