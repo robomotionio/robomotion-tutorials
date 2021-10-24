@@ -8,7 +8,7 @@
         "video": "https://www.youtube.com/watch?v=MUfCjPUVxaY"
       },
       {
-        "header": "Install Robot and Web Extension",
+        "header": "Installing Robot and Web Extension",
         "slug": "installation",
         "video": "https://www.youtube.com/watch?v=U_XbzcDgqVo"
       },
@@ -24,8 +24,7 @@
     "lessons": [
       {
         "header": "Message Object",
-        "slug": "message-object",
-        "video": "https://www.youtube.com/watch?v=mmO1IdVnE8g"
+        "slug": "message-object"
       },
       {
         "header": "Functions",
