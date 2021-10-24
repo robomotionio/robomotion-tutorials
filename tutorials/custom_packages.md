@@ -14,9 +14,9 @@ Contrib repository is for the community and also welcomes your PRs.
 
 You need roboctl command line tool to create the package. You can download it below for your operating system;
 
-* [Mac Version](https://github.com/robomotionio/packages-contrib)
-* [Linux Version](https://github.com/robomotionio/packages-contrib)
-* [Windows Version](https://github.com/robomotionio/packages-contrib)
+* [Mac Version](https://packages.robomotion.io/releases/roboctl/roboctl-v1.0.0-darwin-amd64.tar.gz)
+* [Linux Version](https://packages.robomotion.io/releases/roboctl/roboctl-v1.0.0-linux-amd64.tar.gz)
+* [Windows Version](https://packages.robomotion.io/releases/roboctl/roboctl-v1.0.0-windows-amd64.tar.gz)
 
 Just run below command in the root source directory of a package.
 
