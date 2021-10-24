@@ -2,31 +2,30 @@
   lessons:
   - header: Nodes
     slug: nodes
-    video: https://www.youtube.com/watch?v=mmO1IdVnE8g
+    video: https://www.youtube.com/watch?v=q391y348QUQ
   - header: Packages
     slug: packages
-    video: https://www.youtube.com/watch?v=mmO1IdVnE8g
+    video: https://www.youtube.com/watch?v=8iwp_5l9tyo
   - header: Repositories
     slug: repositories
-    video: https://www.youtube.com/watch?v=mmO1IdVnE8g
+    video: https://www.youtube.com/watch?v=sitn2Tp0F8c
   - header: Browser Automation
     slug: browser-automation
-    video: https://www.youtube.com/watch?v=mmO1IdVnE8g
+    video: https://www.youtube.com/watch?v=kpGH8Utohns
   - header: Excel Automation
     slug: excel-automation
-    video: https://www.youtube.com/watch?v=mmO1IdVnE8g
+    video: https://www.youtube.com/watch?v=libaRLSzy9M
   - header: Vaults
     slug: vaults
-    video: https://www.youtube.com/watch?v=mmO1IdVnE8g
+    video: https://www.youtube.com/watch?v=JZsE_5RXwjI
   - header: Queues
     slug: queues
-    video: https://www.youtube.com/watch?v=mmO1IdVnE8g
+    video: https://www.youtube.com/watch?v=QpYhoLfWg98
   - header: Triggers
     slug: triggers
-    video: https://www.youtube.com/watch?v=mmO1IdVnE8g
   - header: Versioning
     slug: versioning
-    video: https://www.youtube.com/watch?v=mmO1IdVnE8g
+    video: https://www.youtube.com/watch?v=ph-9iKtkkek
   - header: Scheduling
     slug: scheduling
     video: https://www.youtube.com/watch?v=mmO1IdVnE8g

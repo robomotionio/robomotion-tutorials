@@ -8,7 +8,7 @@ With switch node you can control the flow. You can add the needed output ports f
 
 There is another way to switch in your flow and that is with the Function node.
 
-You can also add more output ports the a Function node from the node properties panel.
+You can also increase the output ports to a Function node from the node's properties.
 
 And if you return an array from the Function node, every output port of Function node passes the message object and continues
 unless null is provided in the array.
