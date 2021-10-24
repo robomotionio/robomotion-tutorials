@@ -5,8 +5,8 @@ You can follow the instructions from our docs [here](https://docs.robomotion.io/
 
 ![Robot](https://raw.githubusercontent.com/robomotionio/robomotion-tutorials/master/images/robot-tray.png)
 
-Also your will need the Robomotion Chrome Extension for your web automations.
+Also you will need the Robomotion Chrome Extension for your web automations.
 
-You can follow the instructions from our docs [here](https://docs.robomotion.io/installation/browser-setup/chrome-extension)
+You can follow the instructions to install the Chrome extension from our docs [here](https://docs.robomotion.io/installation/browser-setup/chrome-extension)
 
 ![Chrome Extension](https://raw.githubusercontent.com/robomotionio/robomotion-tutorials/master/images/chrome-extension.png)

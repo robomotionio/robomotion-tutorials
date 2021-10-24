@@ -1,12 +1,12 @@
 #### What is Scheduling a Flow?
-Once you finish your automation flow, test it manually, over and over again, handled every exceptional cases within your flow.
+Once you finish your automation flow, test it manually over and over again, handled every exceptional cases within your flow.
 
-Now you are ready to move this automation to the production.
+Now you are ready to move this automation to the production environment.
 
 In order to create a schedule you first need to version your flow and then publish it.
 
 #### How to publish a version?
-To publish a flow, you open the Version dialog and click the Action item right next to the version and press Publish button.
+To publish a flow, you open the Versions dialog and click the Action menu right next to the version and then press Publish button.
 
 ![Publishing Version](https://raw.githubusercontent.com/robomotionio/robomotion-tutorials/master/images/publishing-schedule.png)
 
@@ -17,7 +17,7 @@ To schedule a flow, go to Admin Console -> Schedule screen and press Add Schedul
 
 ![Scheduling](https://raw.githubusercontent.com/robomotionio/robomotion-tutorials/master/images/schedule.png)
 
-You need to do the following items to schedule a flow successfully:
+You need to do the following to schedule a flow successfully:
 
 * Give a name to your schedule
 
@@ -29,4 +29,5 @@ You need to do the following items to schedule a flow successfully:
 
 * Select the robot to run this flow
 
-* Select the interval to schedule
+* Select the interval to run
+

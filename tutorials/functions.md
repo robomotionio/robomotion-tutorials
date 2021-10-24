@@ -8,7 +8,7 @@ If you need scripting support in your flows, you can use **Javascript** with the
 
 You can manipulate the message object or read / write variables.
 
-After changing the msg object, Function script must return the msg object;
+After reading/updating the message object, Function script must return it as below;
 
 `return msg`
 

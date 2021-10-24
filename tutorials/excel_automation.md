@@ -7,7 +7,7 @@ in your system.
 
 ![Excel Nodes](https://raw.githubusercontent.com/robomotionio/robomotion-tutorials/master/images/excel.png)
 
-The one disadvantage of these nodes are it becomes memory intensive after 50K or 100K rows. In most scenarious this is enough.
+The one disadvantage of these nodes are, it becomes memory intensive after 50K or 100K rows. But in most scenarious this would be enough.
 
 #### MS Excel Nodes
 These nodes are provided from the stable package repository. You need to install MS Excel package from the Package Dialog. These nodes
@@ -15,4 +15,5 @@ actually uses MS Excel application and you can follow the robot while working.
 
 ![MS Excel Nodes](https://raw.githubusercontent.com/robomotionio/robomotion-tutorials/master/images/msexcel.png)
 
-The disadvantage of these nodes are, they only work on Windows systems and you need MS Excel to be installed.
+The disadvantage of these nodes are, they only work on Windows systems and you need MS Excel to be installed. But you can manage large files with these nodes and this package also supports Excel Macros.
+

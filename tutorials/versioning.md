@@ -1,6 +1,6 @@
 #### What is Versioning For?
 Developing automation flows takes time and multiple iterations to make it work. You schedule them and discover errors,
-go back to the flow again and again to fix the problem.
+go back to the flow again and again to fix the problems.
 
 While working on these iterations, it may be a good idea to keep old versions of your flows. It is just tagging
 your flows at the time of the versioning with a name and description.

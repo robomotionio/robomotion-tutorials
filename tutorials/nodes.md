@@ -1,5 +1,5 @@
 #### Nodes
-An automation flow consists of nodes. Nodes are the basic building blocks of any flow. 
+An automation flow consists of nodes that are the basic building blocks of any flow. 
 
 You can see the list of default nodes at the left side panel in Flow Designer.
 

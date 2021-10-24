@@ -4,7 +4,7 @@ Robomotion supports local or global variables.
 
 ![Variables](https://raw.githubusercontent.com/robomotionio/robomotion-tutorials/master/images/variables.png)
 
-Supported types are as follows;
+Supported variable types are as follows;
 
 * String
 * Integer
