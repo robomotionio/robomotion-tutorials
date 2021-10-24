@@ -1,14 +1,15 @@
 ### Native Scripting Language Support
 
-Robomotion Flow Designer is a drag & drop visual flow designer tool. 
+Robomotion Flow Designer is a visual drag & drop development tool. 
 
-If you need to, you can use **Javascript** within the Function node.
+If you need scripting support in your flows, you can use **Javascript** with the Function node.
 
 ![Function Node](https://raw.githubusercontent.com/robomotionio/robomotion-tutorials/master/images/function-node.png)
 
-You can manipulate the message object or read / write variables within these functions.
+You can manipulate the message object or read / write variables.
 
-After changing the msg object you must return it within the function as follows;
+After changing the msg object, Function script must return the msg object;
 
 `return msg`
+
 

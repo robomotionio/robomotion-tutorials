@@ -1,5 +1,5 @@
 ### What is message object?
-Robomotion flows consist of nodes that are interconnected together through wires.
+Robomotion flows consist of nodes that are interconnected together with wires.
 
 These nodes exchange data between each other with a message object.
 
